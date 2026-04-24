@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/husen-2346/pipelineIQ-backend#readme",
   "dependencies": {
+    "@openrouter/sdk": "^0.12.20",
     "cors": "^2.8.6",
     "deep-diff": "^1.0.2",
     "dotenv": "^17.4.2",
@@ -28,6 +29,7 @@
     "express-rate-limit": "^8.4.0",
     "helmet": "^8.1.0",
     "js-yaml": "^4.1.1",
-    "morgan": "^1.10.1"
+    "morgan": "^1.10.1",
+    "openai": "^6.34.0"
   }
 }
